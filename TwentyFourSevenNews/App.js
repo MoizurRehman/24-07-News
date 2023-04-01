@@ -9,7 +9,7 @@ export default function App() {
 	style={{height: 40}}
         placeholder="Type here!"
 	/>
-      <StatusBar style="auto" />
+      <Text>Hello, world!</Text>
     </View>
   );
 }
